@@ -1,4 +1,4 @@
-# Streamlined Financial Management System: A Personal Finance Tracker using Random Forest Regression
+# Streamlined Financial Management System: A Personal Finance Tracker using Random Forest Regression - ATFL Case Study
 An expense tracker program that uses Random Forest for predicting future expenses.
 ##  Description
 * **Expense Prediction:** Uses a Random Forest model to forecast next month's spending.
